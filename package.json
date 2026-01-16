@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-node-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
